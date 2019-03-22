@@ -23,6 +23,8 @@ namespace Facade
             CafMoselle.TraiterApl(Cassos3);
             CafMoselle.TraiterApl(Cassos4);
 
+
+
         }
     }
 }
